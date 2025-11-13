@@ -5,4 +5,4 @@
 
 ## Update
 
-support Android 11（BRAVIA 4K VH21）
+support Android 12（BRAVIA 4K VH21）
